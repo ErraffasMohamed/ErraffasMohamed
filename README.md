@@ -8,7 +8,7 @@
 ErraffasMohamed/ErraffasMohamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center"> Hi there 👋 My name's hamza el ghazouani </h1>
+<h1 align="center"> Hi there 👋 My name is Mohamed Erraffas</h1>
 
 <p align="center">
      <img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
