@@ -1,45 +1,53 @@
-<h1 align="center">Hi there 👋 I'm Mohamed Erraffas</h1>
+- 👋 Hi, I’m @ErraffasMohamed
+- 👀 I’m interested in computing engineering 
+- 🌱 I’m currently learning backend development 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me moahemd.Erraffas@usmba.ac.ma
 
-### About Me
-🎓 AI & Data Science Engineering student at ENSAMR with a background in Software Engineering
-🔭 Currently working on AI-powered solutions and full-stack development
-🌱 Passionate about AI, Machine Learning, and creating scalable applications
-💼 Experience in developing AI models, chatbots, and web applications
+<!---
+ErraffasMohamed/ErraffasMohamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<h1 align="center"> Hi there 👋 My name is Mohamed Erraffas</h1>
 
-### Recent Projects
-- 🧠 **Brain Tumor Detection**: Fine-tuned NASNetMobile architecture achieving 92% accuracy
-- 🏥 **Colon Cancer Detection**: Web application using CNN, Angular, TensorFlow & Keras
-- 🤖 **RAG Chatbot**: Developed using LangChain and Llama 70B
-- 📱 **Virtual Try-On Model**: Research and implementation for enhanced user experience
-- 💰 **TriggerCoin**: Real-time cryptocurrency tracking platform
+<p align="center">
+     <img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+     <img align="center" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
+</p>
+<!--![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)-->
+        <p>framework :</p>    
+     
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+     <p>langage de programmation : </p>
+     
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+     <p>Web developpement :</p>          
+     
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+     <p>SGBD :</p>          
+<ul>
+     <li>My SQL</li>
+     <li>SQL SERVER</li>
+     <li>ORACLE</li>
+</ul>
+     <p>IDE :</p>
+          <img  src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />
+          <img  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+          <img  src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
+<br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ErraffasMohamed&show_icons=true&theme=vue-dark" />
+</a>
+   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErraffasMohamed&layout=compact&theme=vue-dark" />-->
+<br>
+<img  src="https://activity-graph.herokuapp.com/graph?username=ErraffasMohamed&bg_color=0d1117&hide_title=true&theme=gotham&area=true&hide_border=true" />
 
-### Technical Skills
-```
-AI/ML: TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy
-Frontend: Angular, HTML5, CSS3, TypeScript
-Backend: Node.js, Express, Django, Laravel, Spring
-Databases: MySQL, MongoDB, SQL Server
-Tools: Docker, Git, Linux
-```
-
-### Languages and Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### Awards
-- 🏆 3rd Prize - Hackathoon-Orange ENSAM-Rabat 2023 (AI-based VAR)
-- 🏆 3rd Prize - Hackathon GDSC EMSI Rabat 2022
-
-### Community
-- 👥 Google Developer Student Clubs Coordinator
-- 💻 Head of Web & Mobile Development Unit at DIGITECH Club
-
-### Connect with Me
-📫 Email: erraffasmohamed@gmail.com
-🔗 LinkedIn: [mohamed-erraffas](https://linkedin.com/in/mohamed-erraffas)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ErraffasMohamed&show_icons=true&theme=vue-dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErraffasMohamed&theme=vue-dark" />
+<a  href="http://ErraffasMohamed.ml" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErraffasMohamed&theme=vue-dark" />
+</a>
